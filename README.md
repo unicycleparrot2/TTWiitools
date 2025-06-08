@@ -1,4 +1,4 @@
-WARNING - On some formats, the larger the model is, it takes exponentially longer to complete (its just not programmed efficiently)
+WARNING - On some formats, the larger the model is, it takes exponentially more inefficient, also taking exponentially longer to complete (its just not programmed efficiently) (hopefully fix coming soon)
 
 Tools for extracting the face (maybe more coming soon) data from TTGames wii models
 Documentation coming soon
