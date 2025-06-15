@@ -12,3 +12,6 @@ At this point, there should hopefully be few depencencies as long as you have wi
 Also, only models at this point, hopefully I will be able to find UV data or Normal data(maybe in a seperate project)
 
 To make use of the data to get a proper model, you will first need to get the vertex list extracted.  (tutorial here) https://docs.google.com/presentation/d/1PcbEJ1aIb1oUqjC4ZBZZHl4jCXdoGqIZHy9CetpV1sc/edit?usp=sharing
+
+More resources here
+https://drive.google.com/drive/folders/1C_jCe872ztorcu6rYPDNuLECx5XzOYEM?usp=sharing
